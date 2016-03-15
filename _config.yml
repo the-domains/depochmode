@@ -1,0 +1,28 @@
+name: depochmode
+favicon: null
+layout_spectrum: 0.32573057315312326
+typography_spectrum: 0.10296673350967467
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5721669150516391
+  lightness: 0.0517351517919451
+  saturation: 0.8005512591917068
+  rhythmicContrast: 0.6983104217797518
+purpose: []
