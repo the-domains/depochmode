@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T12:31:02.157Z'
-dateModified: '2016-04-26T12:30:43.469Z'
-title: Always + Find + Time + For + The Ocean
+datePublished: '2016-04-26T13:36:29.980Z'
+dateModified: '2016-04-26T13:32:18.059Z'
+title: Kitesurfing
 author: []
 sourcePath: _posts/2016-04-26-cool-tattoo.md
 published: true
@@ -22,5 +22,7 @@ url: always-find-time-for-the-ocean/index.html
 _type: Article
 
 ---
-# Always + Find + Time + For + The Ocean
+# Kitesurfing
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2327c8d4-25b4-4dc0-b38e-b58c4de86830.jpg)
+
+# Always + Find + Time + For + The Ocean
