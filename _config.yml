@@ -1,4 +1,5 @@
-layout_spectrum: 0.3870968
+favicon: null
+name: PapaSnaps
 opengraph:
   image: null
   type: null
@@ -28,13 +29,12 @@ color:
     - '#F4F482'
   rhythmicContrast: 0.5143369
 typography_spectrum: 0.3870968
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.1433692
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: PapaSnaps
+cta:
+  bucket: null
+  version: null
+  domain: null
