@@ -5,12 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T12:37:07.835Z'
-dateModified: '2016-04-26T12:33:57.482Z'
+datePublished: '2016-04-26T13:36:46.081Z'
+dateModified: '2016-04-26T13:31:49.922Z'
 author:
   - name: ''
     url: ''
-title: SUP @ the Chicken Shop
+title: Stand Up Paddling
 sourcePath: _posts/2016-04-26-sup-the-chicken-shop.md
 published: true
 authors: []
@@ -24,5 +24,5 @@ url: sup-the-chicken-shop/index.html
 _type: WebPage
 
 ---
-# SUP @ the Chicken Shop
+# Stand Up Paddling
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1521de0c-31a1-4c2f-9391-27f4c180ae8d.jpg)
