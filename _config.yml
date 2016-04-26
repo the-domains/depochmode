@@ -1,5 +1,4 @@
-favicon: null
-name: PapaSnaps
+layout_spectrum: 0.3870968
 opengraph:
   image: null
   type: null
@@ -10,31 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.8005512
-  brandStrength: 0.5721669150516391
-  lightness: 0.2329749
+  saturation: 0.5071685
+  brandStrength: 0
+  lightness: 0.516129
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  rhythmicContrast: 0.6983104
+  rhythmicContrast: 0.5143369
 typography_spectrum: 0.3870968
-layout_spectrum: 0.3870968
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: PapaSnaps
