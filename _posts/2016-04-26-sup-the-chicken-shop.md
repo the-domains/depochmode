@@ -1,16 +1,27 @@
 ---
-author: []
-title: SUP @ the Chicken Shop
-dateModified: '2016-04-26T06:06:14.914Z'
-datePublished: '2016-04-26T06:06:37.245Z'
-description: 'Beautiful sunny autumn day. Went for 6km paddle. Great workout!'
-starred: false
-sourcePath: _posts/2016-04-26-sup-the-chicken-shop.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-04-26T11:08:46.789Z'
+dateModified: '2016-04-26T11:08:38.626Z'
+author:
+  - name: ''
+    url: ''
+title: SUP @ the Chicken Shop
+sourcePath: _posts/2016-04-26-sup-the-chicken-shop.md
+published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # SUP @ the Chicken Shop
