@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The toys, the gear, the lifestyle]]></title>
-        <description><![CDATA[The toys, the gear, the lifestyle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Gadgets, the Gear, the Lifestyle]]></title>
+        <description><![CDATA[The Gadgets, the Gear, the Lifestyle]]></description>
+        <link>https://thegrid.ai/depochmode/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 12:31:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 13:36:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/depochmode/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Always + Find + Time + For + The Ocean]]></title>
-            <description><![CDATA[<article><h1>Always + Find + Time + For + The Ocean</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2327c8d4-25b4-4dc0-b38e-b58c4de86830.jpg"></article>]]></description>
-            <link>undefinedalways-find-time-for-the-ocean/index.html</link>
+            <title><![CDATA[Kitesurfing]]></title>
+            <description><![CDATA[<article><h1>Kitesurfing</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2327c8d4-25b4-4dc0-b38e-b58c4de86830.jpg"></article>]]></description>
+            <link>https://thegrid.ai/depochmode/always-find-time-for-the-ocean/index.html</link>
             <guid isPermaLink="false">e9f92576-97f6-4fd5-b9ce-efb5b807b5b9</guid>
-            <pubDate>Tue, 26 Apr 2016 12:31:02 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 13:36:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
