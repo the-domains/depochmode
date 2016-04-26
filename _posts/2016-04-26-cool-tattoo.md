@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T12:28:17.598Z'
-dateModified: '2016-04-26T12:28:16.564Z'
+datePublished: '2016-04-26T12:31:02.157Z'
+dateModified: '2016-04-26T12:30:43.469Z'
 title: Always + Find + Time + For + The Ocean
 author: []
 sourcePath: _posts/2016-04-26-cool-tattoo.md
@@ -19,7 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: always-find-time-for-the-ocean/index.html
+_type: Article
 
 ---
 # Always + Find + Time + For + The Ocean
