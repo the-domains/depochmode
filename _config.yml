@@ -1,9 +1,7 @@
+name: dePoch Mode
 favicon: null
-name: PapaSnaps
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.1433692
+typography_spectrum: 0.3870968
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.3799283
-  brandStrength: 0.3853047
-  lightness: 0.5322581
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  rhythmicContrast: 0.5806451
-typography_spectrum: 0.3870968
-layout_spectrum: 0.1433692
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fefefe'
+    - '#28abe3'
+    - '#1a4d60'
+    - '#77969c'
+    - '#a1bec6'
+  brandStrength: 0.3853047
+  lightness: 0.5322581
+  saturation: 0.3799283
+  rhythmicContrast: 0.5806451
+purpose: []
