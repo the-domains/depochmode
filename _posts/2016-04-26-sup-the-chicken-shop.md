@@ -1,13 +1,12 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T12:28:26.935Z'
-dateModified: '2016-04-26T12:28:25.575Z'
+datePublished: '2016-04-26T12:31:15.135Z'
+dateModified: '2016-04-26T12:30:55.593Z'
 author:
   - name: ''
     url: ''
@@ -21,7 +20,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: sup-the-chicken-shop/index.html
+_type: WebPage
 
 ---
 # SUP @ the Chicken Shop
