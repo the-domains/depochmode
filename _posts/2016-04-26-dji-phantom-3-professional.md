@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The DJI Phantom Pro
-datePublished: '2016-04-26T13:33:48.951Z'
-dateModified: '2016-04-26T13:33:11.608Z'
+datePublished: '2016-04-26T13:36:39.507Z'
+dateModified: '2016-04-26T13:33:58.331Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-26-dji-phantom-3-professional.md
