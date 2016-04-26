@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'The toys, the gear, the lifestyle'
+title: 'The Gadgets, the Gear, the Lifestyle'
 cta:
   domain: null
   bucket: null
