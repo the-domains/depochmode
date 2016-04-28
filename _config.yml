@@ -1,41 +1,41 @@
-name: dePoch Mode
-favicon: null
-layout_spectrum: 0.1433692
-typography_spectrum: 0.3870968
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.1433692
 title: 'The Gadgets, the Gear, the Lifestyle'
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 1
   brandColors:
     - '#fefefe'
     - '#28abe3'
     - '#1a4d60'
     - '#77969c'
     - '#a1bec6'
-  brandStrength: 0
   lightness: 0.5322581
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
+favicon: null
+name: dePoch Mode
+typography_spectrum: 0.3870968
